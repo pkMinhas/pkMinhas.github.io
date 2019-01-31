@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog
+permalink: /blog/
 ---
 <section class="space--sm bg--secondary">
       <div class="container">

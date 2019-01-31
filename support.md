@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Support
+permalink: /support/
 ---
 <section class="text-center bg--dark">
     <div class="container">
