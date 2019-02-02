@@ -2,3 +2,8 @@
 .bar .logo {
     max-height: 3em
 }
+
+.vh-7
+{
+    min-height: 70vh;
+}

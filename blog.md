@@ -15,7 +15,7 @@ permalink: /blog/
                               <div class="article__title text-center">
                                   <a href="{{post.url}}">
                                       <h2>{{post.title}}</h2>
-                                  </a> <span>{{post.date | date_to_string}} </span></div>
+                                  </a> <span>{{post.date | date_to_string}} in {{post.categories | array_to_sentence_string | capitalize}}</span></div>
                               <div class="article__body">
                                   <p> {{ post.excerpt }}</p> <a href="{{ post.url }}">Continue reading »</a> </div>
                           </article>

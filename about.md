@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<section class="text-center bg--secondary">
+<section class="text-center bg--secondary vh-7">
     <div class="container">
         <div class="row">
             <div class="col-md-10 col-lg-8">
