@@ -8,7 +8,7 @@ permalink: /support/
         <div class="row">
             <div class="col-md-12">
                 <h2>Support</h2>
-                <p class="lead">Please drop in an email to <a href="mailto:{{site.email}}" target="_blank">{{site.email}}</a> stating the details of your issue. We will get back to you ASAP.</p>
+                <p class="lead">Please reach us at <a href="mailto:{{site.email}}" target="_blank">{{site.email}}</a> for any queries and concerns. We will get back to you ASAP.</p>
             </div>
         </div>
     </div>
