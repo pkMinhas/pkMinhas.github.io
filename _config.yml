@@ -16,18 +16,25 @@
 title: Marching Bytes Technology Solutions
 email: contact@marchingbytes.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We are Marching Bytes, a technology solutions firm specialising in end-to-end product development. 
-  We partner with startups and companies, small and large.
+  We are a technology solutions firm specialising in end-to-end product development in the fields of web, mobile, AR, VR & IoT. 
+  We provide consulting services and solutions to a variety of clients, ranging from established MNCs to up & coming startups.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://marchingbytes.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pkMinhas
 github_username:  pkMinhas
+
+#for SEO, refer https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+twitter:
+  username: pkMinhas
+  card: summary
+logo: "/assets/img/logo-256.png"
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

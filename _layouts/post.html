@@ -12,16 +12,8 @@ layout: default
                         <div class="article__body"> 
                             {{content}}
                         </div>
-                        <div class="article__share text-center">
-                            <a class="btn bg--facebook btn--icon" href="#"> <span class="btn__text">
-                        <i class="socicon socicon-facebook"></i>
-                        Share on Facebook
-                    </span> </a>
-                            <a class="btn bg--twitter btn--icon" href="#"> <span class="btn__text">
-                        <i class="socicon socicon-twitter"></i>
-                        Share on Twitter
-                    </span> </a>
-                        </div>
+                        {% include share-buttons.html %}
+                        
                     </article>
                 </div>
             </div>
