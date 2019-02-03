@@ -9,24 +9,24 @@ permalink: /about/
         <div class="row">
             <div class="col-md-12">
                 <h2>About Us</h2>
-                <p class="lead"> We are a technology solutions firm specialising in end-to-end product development in the fields of AR, VR, IoT, web and mobile apps.<br>
-                <br>
-                Our development teams are located in Chandigarh & Delhi-NCR, India.</p>
+                <p class="lead"> We are a technology solutions firm specialising in end-to-end product development in the fields of web, mobile, AR, VR & IoT. We provide consulting services and solutions to a variety of clients, ranging from established MNCs to up & coming startups.<br><br>
+                Our development teams are based out of Delhi-NCR & Chandigarh, India.</p>
             </div>
         </div>
         <hr>
         <h3>Our Founding Team</h3>
                     <div class="row justify-content-between">
-                        <div class="col-md-2"> <img alt="Image" class="border--round" src="/assets/img/preet.jpeg"> </div>
+                        <div class="col-2"> <img alt="Image" class="border--round" src="/assets/img/preet.jpeg"> </div>
                         <div class="col">
                             <div class="switchable__text">
                                 <div class="text-block">
                                     <h4>Preet Kamal Singh Minhas</h4> <span>Founder &amp; CEO</span> </div>
-                                <p class="lead"> Something something... </p>
+                                <p class="lead">Preet has over 12 years of experience in the software industry with MNCs Nagarro & Infosys.<br>Prior to founding Marching Bytes, he was working as a Senior Software Architect with Nagarro Software, enabling clients in the Industrial & Manufacturing space adopt cutting-edge technologies in the fields of augmented reality & mobile. He specializes in the fields of AR/VR, mobile and cloud computing. In his free time, he likes to experiment & develop gaming and 3D rendering applications. </p>
                                 <ul class="social-list list-inline list--hover">
                                     <li class="list-inline-item"><a href="mailto:{{site.email}}" target="_blank"><i class="socicon socicon-mail icon icon--xs"></i></a></li>
                                     <li class="list-inline-item"><a href="https://www.linkedin.com/in/pkMinhas" target="_blank"><i class="socicon socicon-linkedin icon icon--xs"></i></a></li>
                                     <li class="list-inline-item"><a href="https://twitter.com/{{site.twitter_username}}" target="_blank"><i class="socicon socicon-twitter icon icon--xs"></i></a></li>
+                                    <li class="list-inline-item"><a href="https://github.com/{{site.github_username}}" target="_blank"><i class="socicon socicon-github icon icon--xs"></i></a></li>
                                 </ul>
                             </div>
                         </div>

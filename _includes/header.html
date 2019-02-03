@@ -31,7 +31,7 @@
                                                 <div class="dropdown__content col-lg-2">
                                                     <ul class="menu-vertical">
                                                         {% for item in site.data.products %}
-                                                        <li> <a href="{{item.link}}">{{item.name}}</a> </li>
+                                                        <li> <a href="{{item.link}}" target="{{item.target}}">{{item.name}}</a> </li>
                                                         {% endfor %}
                                                     </ul>
                                                 </div>
@@ -39,41 +39,7 @@
                                         </div>
                                     </div>
                                 </li>
-                                <li class="dropdown"> <span class="dropdown__trigger">
-                                Services</span>
-                                    <div class="dropdown__container">
-                                        <div class="container">
-                                            <div class="row">
-                                                <div class="dropdown__content row w-100">
-                                                    <div class="col-lg-3">
-                                                        <h5>Menu Title</h5>
-                                                        <ul class="menu-vertical">
-                                                            <li> <a href="#">Single Link</a> </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-lg-3">
-                                                        <h5>Menu Title</h5>
-                                                        <ul class="menu-vertical">
-                                                            <li> <a href="#">Single Link</a> </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-lg-3">
-                                                        <h5>Menu Title</h5>
-                                                        <ul class="menu-vertical">
-                                                            <li> <a href="#">Single Link</a> </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-lg-3">
-                                                        <h5>Menu Title</h5>
-                                                        <ul class="menu-vertical">
-                                                            <li> <a href="#">Single Link</a> </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
+                                <li> <a href="/services/">Services</a> </li>
                                 <li> <a href="/blog/">Blog</a> </li>
                             </ul>
                         </div>
