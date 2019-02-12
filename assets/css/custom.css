@@ -1,5 +1,15 @@
 /*! Place your custom styles here */
+.bar {
+    padding: 1.3em 0;
+}
 
+.bar .logo {
+    max-height: 60px;
+}
+
+footer .logo {
+    max-height: 30px;
+}
 
 .vh-7
 {
