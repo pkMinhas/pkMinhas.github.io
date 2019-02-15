@@ -23,6 +23,9 @@ permalink: /about/
                                     <h4>Preet Kamal Singh Minhas</h4> <span>Founder &amp; CEO</span> </div>
 
                                 <p class="lead">Preet has over 12 years of experience in the software industry, working with multi-national corporations Nagarro Software & Infosys Technologies.<br>Prior to founding Marching Bytes, he was working as a Senior Software Architect with Nagarro Software, enabling clients in the Industrial & Manufacturing space adopt cutting-edge technologies in the fields of augmented reality & mobile. He specializes in the fields of AR/VR, mobile and cloud computing. In his free time, he likes to experiment & develop gaming and 3D rendering applications. </p>
+                                <div class="mb-4">
+                                    <a href="https://www.codementor.io/freelance-developers/ios?utm_source=certified_badge&referral=preetminhas-k1z4raqzs" rel="noopener"><img src="https://assets.codementor.io/cmx-dev-badge.svg" /></a>
+                                </div>
                                 
                                 <ul class="social-list list-inline list--hover">
                                     <li class="list-inline-item"><a href="mailto:preet@marchingbytes.com" target="_blank"><i class="socicon socicon-mail icon icon--xs"></i></a></li>
@@ -31,7 +34,9 @@ permalink: /about/
                                     <li class="list-inline-item"><a href="https://github.com/{{site.github_username}}" target="_blank"><i class="socicon socicon-github icon icon--xs"></i></a></li>
                                     
                                 </ul>
+                                
                                 <a href="https://www.codementor.io/preetminhas?utm_source=marchingbytes&utm_medium=button&utm_term=preetminhas&utm_campaign=marchingbytes" target="_blank"><img src="https://cdn.codementor.io/badges/book_session_github.svg" alt="Book session on Codementor" style="max-width:100%" /></a>
+
                             </div>
                         </div>
                     </div>
